@@ -154,7 +154,7 @@ Lesson:
 
 ---
 
-# 5️Training Insights
+# Training Insights
 
 ## Initial Training (3 epochs)
 
